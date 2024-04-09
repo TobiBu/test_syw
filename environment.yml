@@ -3,6 +3,5 @@ dependencies:
   - conda-forge::pip=24
   - conda-forge::python=3.10
   - pip:
-      - matplotlib==3.4.3
-      - jax
+      - matplotlib==3.7.1
       - scipy
