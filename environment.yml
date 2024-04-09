@@ -5,3 +5,4 @@ dependencies:
   - pip:
       - matplotlib==3.7.1
       - scipy
+      - seaborn
